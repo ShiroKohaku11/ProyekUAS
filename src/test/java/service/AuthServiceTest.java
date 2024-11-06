@@ -1,6 +1,7 @@
-package cinema.service;
+package service;
 
 import cinema.model.User;
+import cinema.service.AuthService;
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
 
